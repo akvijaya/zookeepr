@@ -72,6 +72,7 @@ const handleGetAnimalsSubmit = event => {
   getAnimals(animalObject);
 };
 
+
 $animalForm.addEventListener('submit', handleGetAnimalsSubmit);
 
 getAnimals();
