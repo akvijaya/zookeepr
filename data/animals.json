@@ -135,6 +135,34 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "d",
+      "species": "d",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "d",
+      "species": "w",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "d",
+      "species": "rrrr",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
